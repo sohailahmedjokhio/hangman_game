@@ -7,11 +7,11 @@ This Hangman game randomly selects a word from a predefined list and challenges 
 
 ## Installation
 1. Clone the repository to your local machine.
-<pre> git clone https://github.com/your-username/hangman.git</pre>
+<pre> git clone https://github.com/sohailahmedjokhio/hangman_game.git</pre>
 2. Navigate to the project directory.
-<pre>cd hangman</pre>
+<pre>cd hangman_game</pre>
 3. Run the Python script.
-<pre>python hangman_game.py</pre>
+<pre>python main.py</pre>
 
 ## How to Play
 Follow the on-screen instructions to guess a letter and uncover the hidden word. Be cautious, as incorrect guesses will cost you lives! Try to reveal the entire word before losing all your lives.
